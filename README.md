@@ -32,8 +32,17 @@ Binary Search Tree (BST)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
