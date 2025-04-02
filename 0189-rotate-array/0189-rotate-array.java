@@ -1,32 +1,33 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        k = k%n;
+        k = k % n;
         int i, j;
 
-        //first reverse n-k terms in array.
+        //First Reverse the array from 0 to n-k.
         for(i=0, j=n-k-1; i<j; i++, j--){
             int temp = nums[i];
             nums[i] = nums[j];
             nums[j] = temp;
         }
 
-        //secondly reverse k terms in array.
-        for(i =n-k, j=n-1; i<j; i++, j--){
+        //Second Reverse the array from n-k to n.
+        for(i=n-k, j=n-1; i<j; i++, j--){
             int temp = nums[i];
             nums[i] = nums[j];
             nums[j] = temp;
         }
 
-        //At last revrese entire array.
-        for(i = 0, j=n-1; i<j ; i++, j--){
+        //Reverse the new array.
+        for(i=0; i<n/2; i++){
             int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
+            nums[i] = nums[n-1-i];
+            nums[n-1-i] = temp;
         }
 
-        for(i=0; i<n; i++){
-            System.out.println(nums[i] + " ");
+        //Print the rotated array.
+        for(int x=0; x<n; x++){
+            System.out.print(nums[i] + " ");
         }
     }
 }
