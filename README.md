@@ -43,6 +43,7 @@ Binary Search Tree (BST)
 | [0169-majority-element](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Binary Search Tree (BST)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Counting
 |  |
 | ------- |
