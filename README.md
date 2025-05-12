@@ -28,6 +28,7 @@ Binary Search Tree (BST)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Binary Search Tree (BST)
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
 ## Hash Table
