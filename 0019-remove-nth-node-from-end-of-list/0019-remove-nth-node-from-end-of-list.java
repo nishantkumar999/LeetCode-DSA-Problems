@@ -16,24 +16,27 @@ class Solution {
         ListNode slow = dummy;
         dummy.next = head;
 
+       
+
        //move fast pointer till n steps
-        for(int i=1; i<=n; i++){
+        for(int i=0; i<=n; i++){
             fast = fast.next;
         }
 
-        //edge case 
-        if(fast.next == null){
-            head = head.next;
-            return head;
-        }
+        // //edge case 
+        // //this edge case is redundant if already using a dummy node
+        // if(fast.next == null){
+        //     head = head.next;
+        //     return head;
+        // }
         
         //Now both fast and slow will move together
-        while(fast.next != null){
+        while(fast != null){
             fast = fast.next;
             slow = slow.next;
         }
 
         slow.next = slow.next.next;
-        return head;
+        return dummy.next;
     }
 }
