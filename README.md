@@ -30,6 +30,7 @@ Binary Search Tree (BST)
 | [0002-add-two-numbers](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ Binary Search Tree (BST)
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -64,14 +66,20 @@ Binary Search Tree (BST)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
