@@ -30,6 +30,7 @@ Binary Search Tree (BST)
 | [0002-add-two-numbers](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0086-partition-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -54,6 +55,7 @@ Binary Search Tree (BST)
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
