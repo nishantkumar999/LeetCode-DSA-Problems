@@ -32,6 +32,7 @@ Binary Search Tree (BST)
 | [0021-merge-two-sorted-lists](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -57,12 +58,14 @@ Binary Search Tree (BST)
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
