@@ -47,6 +47,7 @@ Binary Search Tree (BST)
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0283-move-zeroes) |
@@ -91,5 +92,6 @@ Binary Search Tree (BST)
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
