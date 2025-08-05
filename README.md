@@ -38,6 +38,7 @@ Binary Search Tree (BST)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -96,4 +97,12 @@ Binary Search Tree (BST)
 | [0035-search-insert-position](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0792-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
