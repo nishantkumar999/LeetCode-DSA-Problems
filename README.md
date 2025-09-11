@@ -109,6 +109,7 @@ Binary Search Tree (BST)
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,4 +118,9 @@ Binary Search Tree (BST)
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/nishantkumar999/LeetCode-DSA-Problems/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
